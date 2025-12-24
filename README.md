@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashen</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenedi&label=Profile%20views&color=b4190e&style=flat-square" alt="ashenedi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashenedi" alt="ashenedi" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashenedi&show_icons=true&locale=en&layout=compact" alt="ashenedi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashenedi&show_icons=true&locale=en" alt="ashenedi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenedi&" alt="ashenedi" /></p>
